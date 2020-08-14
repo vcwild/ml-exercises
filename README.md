@@ -1,5 +1,8 @@
 # Machine Learning Exercises
 
+## Gists
+[Split, Impute, Train & Predict](./gists/gists.md)
+
 ## Notebooks
 
 [Linear Regression](./models/linear_regression.ipynb)
